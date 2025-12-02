@@ -12,7 +12,7 @@ Currently, I'm studying to become a **Software Technologist**.
 
 ## Skills
 
-<img width="50" height="50" alt="Profile Image" src="https://github.com/user-attachments/assets/220e8408-3cd6-4ec0-9762-63a40cba8c54" />
+
 
 <p align="center">
   
